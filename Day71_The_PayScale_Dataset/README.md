@@ -1,6 +1,6 @@
 # Data exploration with Pandas
 
-Goal: To get to know the pandas module.
+Goal: To get to know the Pandas module.
 
 ### The PayScale Dataset 2021
 

@@ -4,11 +4,12 @@
 
 Day 74 of 100 Days of code.
 
-The csv files were provided in the course lesson. The following Google Trends Search Parameters were used to generate the trends-data:
+The csv files were provided in the course lesson. 
+The following Google Trends Search Parameters were used to generate the trends-data:
 <ul>
     <li>"Tesla", Worldwide, Web Search
     <li>"Bitcoin", Worldwide, News Search
-    <li>"Unemployment Benefits", United States, Web Search"
+    <li>"Unemployment Benefits", United States, Web Search
 </ul>
         
 Data Sources: <br>
